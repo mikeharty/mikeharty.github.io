@@ -1,0 +1,9 @@
+title: mikeharty.com
+email: mike@mikeharty.com
+description: >
+  Programming projects, photographs, and other artifacts
+baseurl: ""
+url: "https://mikeharty.com"
+twitter_username: mikeharty
+github_username:  mikeharty
+markdown: kramdown
