@@ -1,16 +1,7 @@
 ---
 layout: post
-title:  "A new site, a new philosophy"
+title:  "Foo"
 date:   2016-04-23 15:40:32 -0400
 categories: prose
 ---
-This site serves as a journal of sorts for my hobbies and ideas.
- 
-The content I write here is primarily for myself.
- 
-In the past I've made the mistake of filtering ideas for my website through a "usefulness" filter.
-This led to fewer posts and time wasted deliberating about whether a topic was worth writing about. 
-
-Going forward, I'll be writing about whatever I happen to be curious about at any given moment, regardless of utility, relevance, topic, or depth.
-
-If you find a topic I've written about here that you'd like to discuss, feel free to email me: **mike at this domain.**
+Bar
